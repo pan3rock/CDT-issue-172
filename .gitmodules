@@ -1,0 +1,9 @@
+[submodule "external/fmt"]
+	path = external/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "external/CDT"]
+	path = external/CDT
+	url = https://github.com/artem-ogre/CDT.git
+[submodule "external/predicates"]
+	path = external/predicates
+	url = https://github.com/danshapero/predicates.git
